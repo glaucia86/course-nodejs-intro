@@ -1,5 +1,7 @@
 # Course: Node.js Intro
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/glaucia86/course-nodejs-intro)
+
 Repository responsible for the examples created during the Microsoft Learn course: **[Introduction to Node.js](https://learn.microsoft.com/en-us/training/modules/intro-to-nodejs/)**
 
 ## Resources Used
