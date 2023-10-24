@@ -1,0 +1,17 @@
+{
+  "name": "course-nodejs-intro",
+  "version": "1.0.0",
+  "description": "code samples related with Node.js Intro Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "tutorial",
+    "microsoft"
+  ],
+  "author": "Glaucia Lemos <Twitter: @glaucia_lemos86>",
+  "license": "MIT"
+}
